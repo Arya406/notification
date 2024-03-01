@@ -1,0 +1,238 @@
+.main {
+
+    height: 80rem;
+    width: 60rem;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: 5px 5px 20px gray;
+    background-color: aliceblue;
+    border-radius: 20px;
+
+
+
+}
+
+.nav {
+
+    display: flex;
+    height: 5rem;
+    width: 60rem;
+
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: hsl(210, 60%, 98%);
+
+
+
+
+}
+
+.notification {
+
+    width: 20rem;
+    height: 5rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 20px;
+
+
+}
+
+.number {
+    display: flex;
+    border: solid 1px black;
+    height: 2rem;
+    width: 2rem;
+    margin-left: 10px;
+    background-color: blue;
+    font-weight: bolder;
+    font-size: x-large;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color: white;
+
+
+
+
+}
+
+.left {
+    display: flex;
+
+    width: 20rem;
+    font-size: x-large;
+    font-weight: 200;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn {
+    margin-left: 100px;
+    margin-top: 10px;
+    background-color: white;
+
+
+}
+
+.A {
+
+    width: 50rem;
+    height: 6rem;
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    font-size: larger;
+    background-color: hsl(208, 45%, 94%);
+    border-radius: 10px;
+
+}
+
+.A:hover {
+    box-shadow: 5px 5px 10px gray;
+
+}
+
+.B:hover {
+    box-shadow: 5px 5px 10px gray;
+
+}
+
+.C:hover {
+    box-shadow: 5px 5px 10px gray;
+
+}
+
+.D:hover {
+    box-shadow: 5px 5px 10px gray;
+
+}
+
+.E:hover {
+    box-shadow: 5px 5px 10px gray;
+
+}
+
+.F:hover {
+    box-shadow: 5px 5px 10px gray;
+
+}
+
+.G:hover {
+    box-shadow: 5px 5px 10px gray;
+
+}
+
+
+
+
+
+.profile img {
+    border-radius: 55%;
+    margin-left: 20px;
+}
+
+.about {
+    margin-left: 50px;
+    font-weight: 300;
+
+}
+
+.B {
+
+    width: 50rem;
+    height: 6rem;
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    font-size: larger;
+    background-color: hsl(208, 45%, 94%);
+    border-radius: 10px;
+}
+
+.C {
+
+    width: 50rem;
+    height: 6rem;
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    font-size: larger;
+    background-color: hsl(208, 45%, 94%);
+    border-radius: 10px;
+
+}
+
+.D {
+    border-radius: 10px;
+    width: 50rem;
+    height: 6rem;
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    font-size: larger;
+    background-color: hsl(208, 45%, 94%);
+}
+
+
+.message {
+    border: solid black 1px;
+    width: 40rem;
+    height: 10rem;
+    margin-top: 10px;
+    margin-left: 150px;
+    font-size: larger;
+    background-color: hsl(210, 30%, 96%);
+    border-radius: 5px;
+}
+
+.E {
+
+    width: 50rem;
+    height: 6rem;
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    font-size: larger;
+    background-color: hsl(208, 45%, 94%);
+    border-radius: 10px;
+
+}
+
+.F {
+    border-radius: 10px;
+    width: 50rem;
+    height: 6rem;
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    overflow: auto;
+    font-size: larger;
+    background-color: hsl(208, 45%, 94%);
+
+}
+
+.G {
+    border-radius: 10px;
+    width: 50rem;
+    height: 6rem;
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    font-size: larger;
+    background-color: hsl(208, 45%, 94%);
+
+
+}
+
+.Name {
+    font-size: larger;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
